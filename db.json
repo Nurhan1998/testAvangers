@@ -1,0 +1,57 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "name": "Demir"
+    },
+    {
+      "id": 2,
+      "name": "Halyk"
+    },
+    {
+      "id": 3,
+      "name": "RSK"
+    },
+    {
+      "id": 4,
+      "name": "Optima"
+    }
+  ],
+  "payments": [
+    {
+      "id": 2,
+      "amount": 200,
+      "bankId": 1
+    },
+    {
+      "id": 3,
+      "amount": 300,
+      "bankId": 3
+    },
+    {
+      "amount": "1165",
+      "bankId": 3,
+      "id": 1630953411772
+    },
+    {
+      "amount": "13",
+      "bankId": 3,
+      "id": 1630953879912
+    },
+    {
+      "amount": "100",
+      "bankId": 2,
+      "id": 1630956280324
+    },
+    {
+      "amount": "1455",
+      "bankId": 1,
+      "id": 1630956985428
+    },
+    {
+      "amount": "789",
+      "bankId": 4,
+      "id": 1630958619437
+    }
+  ]
+}
